@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="https://space.bilibili.com/362867186">
+      <a href="gxt-kt.cn">
         <img src="http://gxt-kt.cn/wp-content/uploads/2022/11/1669378957701-300x300.jpg" alt="Bilibili" width="115">
       </a>
     </td>
