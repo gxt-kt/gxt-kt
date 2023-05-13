@@ -20,7 +20,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GT }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: gxt-kt
           SETTING_JSON: ./3d-profile.json
       - run: mv ./profile-3d-contrib/* ./ && rmdir profile-3d-contrib
       - name: Run update script
