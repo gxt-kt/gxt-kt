@@ -3,7 +3,7 @@
 </div>  
   
 <p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/yaocccc/yaocccc/master/profile-3d.svg" />
+  <img width="80%" src="https://github.com/gxt-kt/gxt-kt/blob/master/profile-3d.svg" />
 </p>
 
 ### <div align="center">Helo,I'm gxt-kt.</div>  
@@ -131,4 +131,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
