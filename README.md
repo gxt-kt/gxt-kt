@@ -23,7 +23,7 @@
   
 <br/>
 
-----
+
 
 
 # <div align="center">My Skill Set </div>  
@@ -44,7 +44,7 @@
 
 <br/> 
   
-----
+
 
 
 # <div align="center">My Other  Website </div>  
@@ -70,5 +70,6 @@
 </table>
 
 </div> 
+
 ----
 
