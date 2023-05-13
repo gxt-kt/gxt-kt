@@ -13,21 +13,9 @@ _stat() {
     [ "$fork" -ge 0 ] && sed -i "s|{$repo/fork}|$_fork_icon$fork|g" _README.md || exit 0
 }
 
-_stat yaocccc/dwm
-_stat yaocccc/st
-_stat yaocccc/tabbed
-_stat yaocccc/scripts
-_stat yaocccc/omz
-_stat yaocccc/wallpaper
-_stat yaocccc/rime
-_stat yaocccc/yaocccc
-_stat yaocccc/nvim
-_stat yaocccc/nvim-hlchunk
-_stat yaocccc/nvim-hl-mdcodeblock.lua
-_stat yaocccc/nvim-lines.lua
-_stat yaocccc/vim-comment
-_stat yaocccc/vim-surround
-_stat yaocccc/vim-showmarks
-_stat yaocccc/vim-echo
-_stat yaocccc/nvim-foldsign
+_stat gxt-kt/dwm
+_stat gxt-kt/dotfiles
+_stat gxt-kt/2021-F-drug_car
+_stat gxt-kt/qt-SerialPort-sourceCode
+_stat gxt-kt/st7789-drv
 mv _README.md README.md
