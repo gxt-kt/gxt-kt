@@ -3,7 +3,7 @@
 </div>  
   
 <p align="center">
-  <img width="80%" src="https://github.com/gxt-kt/gxt-kt/blob/master/profile-3d.svg" />
+  <img width="80%" src="https://github.com/gxt-kt/gxt-kt/blob/master/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ### <div align="center">Helo,I'm gxt-kt.</div>  
