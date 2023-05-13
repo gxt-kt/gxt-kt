@@ -30,7 +30,7 @@ jobs:
         run: |
           remote_addr=`git remote get-url --push origin`
           remote_addr=`echo $remote_addr|  awk -F '://' '{print $2}'`
-          remote_addr=https://${user_name}:${{ secrets.GT }}@${remote_addr}
+          remote_addr=https://gxt-kt:${{ secrets.GT }}@${remote_addr}
           git status
           git diff
           git config  user.name "gxt_kt"
